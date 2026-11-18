@@ -1,4 +1,4 @@
-![Ace Interviews Podcast Guide](assets/ace-interviews-podcast-guide.png)
+![Ace Interviews Podcast Guide](assets/ace-interviews-podcast-guide.jpg)
 
 # Ace Interviews - LearnHub Podcast
 
