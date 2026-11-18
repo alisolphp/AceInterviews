@@ -10,16 +10,18 @@ Listen, learn, and ace it.
 
 ## Table of Contents (by Language)
 
-| Language | Content | Index on Telegram |
+| Language | Content | Episodes |
 |---|---|---|
-| English | 29 Mock Interviews, 5 Books, 4 Courses | [Open](https://t.me/AceInterviews/157/158) |
-| Persian (فارسی) | 29 Mock Interviews, 6 Books, 4 Courses, 1 Engineering Story | [Open](https://t.me/AceInterviews/4/67) |
-| Hindi (हिन्दी) | 2 Mock Interviews | [Open](https://t.me/AceInterviews/169/170) |
-| Urdu (اردو) | 2 Mock Interviews | [Open](https://t.me/AceInterviews/175/176) |
-| Spanish (Español) | 2 Mock Interviews | [Open](https://t.me/AceInterviews/181/182) |
-| Arabic (العربية) | 2 Mock Interviews | [Open](https://t.me/AceInterviews/163/164) |
+| English | 29 Mock Interviews, 5 Books, 4 Courses | [Jump to episodes](#english) |
+| Persian (فارسی) | 29 Mock Interviews, 6 Books, 4 Courses, 1 Engineering Story | [Jump to episodes](#persian) |
+| Hindi (हिन्दी) | 2 Mock Interviews | [Jump to episodes](#hindi) |
+| Urdu (اردو) | 2 Mock Interviews | [Jump to episodes](#urdu) |
+| Spanish (Español) | 2 Mock Interviews | [Jump to episodes](#spanish) |
+| Arabic (العربية) | 2 Mock Interviews | [Jump to episodes](#arabic) |
 
 Every episode link below opens the audio on Telegram.
+
+<a id="english"></a>
 
 ## English
 
@@ -84,6 +86,8 @@ Every episode link below opens the audio on Telegram.
 | EP036 | [Course - Redis Crash Course [EN]](https://t.me/AceInterviews/157/224) |
 
 </details>
+
+<a id="persian"></a>
 
 ## Persian (فارسی)
 
@@ -159,6 +163,8 @@ Every episode link below opens the audio on Telegram.
 
 </details>
 
+<a id="hindi"></a>
+
 ## Hindi (हिन्दी)
 
 <details>
@@ -170,6 +176,8 @@ Every episode link below opens the audio on Telegram.
 | EP002 | [Design Rate Limiter [HI]](https://t.me/AceInterviews/169/229) |
 
 </details>
+
+<a id="urdu"></a>
 
 ## Urdu (اردو)
 
@@ -183,6 +191,8 @@ Every episode link below opens the audio on Telegram.
 
 </details>
 
+<a id="spanish"></a>
+
 ## Spanish (Español)
 
 <details>
@@ -194,6 +204,8 @@ Every episode link below opens the audio on Telegram.
 | EP002 | [Design Rate Limiter (Diseñar un limitador de tasa) [ES]](https://t.me/AceInterviews/181/228) |
 
 </details>
+
+<a id="arabic"></a>
 
 ## Arabic (العربية)
 
