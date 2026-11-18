@@ -41,21 +41,21 @@ Every episode link below opens the audio on Telegram.
 | EP011 | [Design File Sharing System (Dropbox/Drive) [EN]](https://t.me/AceInterviews/157/198) |
 | EP012 | [Design Google Search [EN]](https://t.me/AceInterviews/157/199) |
 | EP013 | [Design Autocomplete for Search Engines [EN]](https://t.me/AceInterviews/157/200) |
-| EP014 | [Design Twitter | x.com [EN]](https://t.me/AceInterviews/157/201) |
-| EP015 | [Design Facebook | Design Instagram [EN]](https://t.me/AceInterviews/157/202) |
+| EP014 | [Design Twitter &#124; x.com [EN]](https://t.me/AceInterviews/157/201) |
+| EP015 | [Design Facebook &#124; Design Instagram [EN]](https://t.me/AceInterviews/157/202) |
 | EP016 | [Design Instagram [EN]](https://t.me/AceInterviews/157/203) |
-| EP017 | [Design WhatsApp | Chat Messaging Systems [EN]](https://t.me/AceInterviews/157/204) |
+| EP017 | [Design WhatsApp &#124; Chat Messaging Systems [EN]](https://t.me/AceInterviews/157/204) |
 | EP018 | [Design TikTok [EN]](https://t.me/AceInterviews/157/205) |
 | EP019 | [Design Spotify [EN]](https://t.me/AceInterviews/157/206) |
 | EP020 | [Design Netflix System [EN]](https://t.me/AceInterviews/157/207) |
-| EP021 | [Design Uber | OLA [EN]](https://t.me/AceInterviews/157/208) |
+| EP021 | [Design Uber &#124; OLA [EN]](https://t.me/AceInterviews/157/208) |
 | EP022 | [Design Food Delivery App like Doordash [EN]](https://t.me/AceInterviews/157/209) |
 | EP023 | [Design Google Maps System [EN]](https://t.me/AceInterviews/157/210) |
-| EP024 | [Design E-commerce Store like Amazon | Flipkart [EN]](https://t.me/AceInterviews/157/211) |
+| EP024 | [Design E-commerce Store like Amazon &#124; Flipkart [EN]](https://t.me/AceInterviews/157/211) |
 | EP025 | [Design Payment System [EN]](https://t.me/AceInterviews/157/212) |
 | EP026 | [Design a Digital Wallet [EN]](https://t.me/AceInterviews/157/213) |
 | EP027 | [Design Flight Booking System [EN]](https://t.me/AceInterviews/157/214) |
-| EP028 | [Design Parking Garage | Vending Machine [EN]](https://t.me/AceInterviews/157/215) |
+| EP028 | [Design Parking Garage &#124; Vending Machine [EN]](https://t.me/AceInterviews/157/215) |
 | EP029 | [Design Online Code Editor [EN]](https://t.me/AceInterviews/157/216) |
 
 </details>
@@ -105,21 +105,21 @@ Every episode link below opens the audio on Telegram.
 | EP011 | [Design File Sharing System (Dropbox/Drive)](https://t.me/AceInterviews/24) |
 | EP012 | [Design Google Search](https://t.me/AceInterviews/25) |
 | EP013 | [Design Autocomplete for Search Engines](https://t.me/AceInterviews/26) |
-| EP014 | [Design Twitter | x.com](https://t.me/AceInterviews/27) |
-| EP015 | [Design Facebook | Design Instagram](https://t.me/AceInterviews/28) |
+| EP014 | [Design Twitter &#124; x.com](https://t.me/AceInterviews/27) |
+| EP015 | [Design Facebook &#124; Design Instagram](https://t.me/AceInterviews/28) |
 | EP016 | [Design Instagram](https://t.me/AceInterviews/29) |
-| EP017 | [Design WhatsApp | Chat Messaging Systems](https://t.me/AceInterviews/30) |
+| EP017 | [Design WhatsApp &#124; Chat Messaging Systems](https://t.me/AceInterviews/30) |
 | EP018 | [Design TikTok](https://t.me/AceInterviews/31) |
 | EP019 | [Design Spotify](https://t.me/AceInterviews/32) |
 | EP020 | [Design Netflix System](https://t.me/AceInterviews/33) |
-| EP021 | [Design Uber | OLA](https://t.me/AceInterviews/34) |
+| EP021 | [Design Uber &#124; OLA](https://t.me/AceInterviews/34) |
 | EP022 | [Design Food Delivery App like Doordash](https://t.me/AceInterviews/35) |
 | EP023 | [Design Google Maps System](https://t.me/AceInterviews/37) |
-| EP024 | [Design E-commerce Store like Amazon | Flipkart](https://t.me/AceInterviews/38) |
+| EP024 | [Design E-commerce Store like Amazon &#124; Flipkart](https://t.me/AceInterviews/38) |
 | EP025 | [Design Payment System](https://t.me/AceInterviews/39) |
 | EP026 | [Design a Digital Wallet](https://t.me/AceInterviews/40) |
 | EP027 | [Design Flight Booking System](https://t.me/AceInterviews/41) |
-| EP028 | [Design Parking Garage | Vending Machine](https://t.me/AceInterviews/42) |
+| EP028 | [Design Parking Garage &#124; Vending Machine](https://t.me/AceInterviews/42) |
 | EP029 | [Design Online Code Editor](https://t.me/AceInterviews/43) |
 
 </details>
