@@ -12,12 +12,12 @@ Listen, learn, and ace it.
 
 | Language | Content | Episodes |
 |---|---|---|
-| English | 29 Mock Interviews, 5 Books, 4 Courses | [Jump to episodes](#english) |
-| Persian (فارسی) | 29 Mock Interviews, 6 Books, 4 Courses, 1 Engineering Story | [Jump to episodes](#persian) |
-| Hindi (हिन्दी) | 2 Mock Interviews | [Jump to episodes](#hindi) |
-| Urdu (اردو) | 2 Mock Interviews | [Jump to episodes](#urdu) |
-| Spanish (Español) | 2 Mock Interviews | [Jump to episodes](#spanish) |
-| Arabic (العربية) | 2 Mock Interviews | [Jump to episodes](#arabic) |
+| English | 29 Mock Interviews, 5 Books, 4 Courses, 1 Engineering Story | [Jump to episodes](#english) |
+| Persian (فارسی) | 29 Mock Interviews, 6 Books, 4 Courses, 3 Engineering Stories | [Jump to episodes](#persian) |
+| Hindi (हिन्दी) | 2 Mock Interviews, 1 Engineering Story | [Jump to episodes](#hindi) |
+| Urdu (اردو) | 2 Mock Interviews, 1 Engineering Story | [Jump to episodes](#urdu) |
+| Spanish (Español) | 2 Mock Interviews, 1 Engineering Story | [Jump to episodes](#spanish) |
+| Arabic (العربية) | 2 Mock Interviews, 1 Engineering Story | [Jump to episodes](#arabic) |
 
 Every episode link below opens the audio on Telegram.
 
@@ -84,6 +84,15 @@ Every episode link below opens the audio on Telegram.
 | EP033 | [Course - Oral Communication for Engineering Leaders [EN]](https://t.me/AceInterviews/157/220) |
 | EP034 | [Course - Writing a Resume [EN]](https://t.me/AceInterviews/157/222) |
 | EP036 | [Course - Redis Crash Course [EN]](https://t.me/AceInterviews/157/224) |
+
+</details>
+
+<details>
+<summary><b>Engineering Stories (1)</b></summary>
+
+| # | Episode |
+|---|---|
+| EP042 | [Engineering Stories - GTA VI’s 210 GB Preload [EN]](https://t.me/AceInterviews/157/239) |
 
 </details>
 
@@ -155,11 +164,13 @@ Every episode link below opens the audio on Telegram.
 </details>
 
 <details>
-<summary><b>Engineering Stories (1)</b></summary>
+<summary><b>Engineering Stories (3)</b></summary>
 
 | # | Episode |
 |---|---|
 | EP040 | [Engineering Stories - AI in Coding, From Autocomplete to Agents](https://t.me/AceInterviews/4/233) |
+| EP041 | [Engineering Stories - Account Pre-hijacking, When Password and Google Sign-In Meet](https://t.me/AceInterviews/4/238) |
+| EP042 | [Engineering Stories - GTA VI’s 210 GB Preload](https://t.me/AceInterviews/4/240) |
 
 </details>
 
@@ -177,6 +188,15 @@ Every episode link below opens the audio on Telegram.
 
 </details>
 
+<details>
+<summary><b>Engineering Stories (1)</b></summary>
+
+| # | Episode |
+|---|---|
+| EP042 | [Engineering Stories - GTA VI’s 210 GB Preload [HI]](https://t.me/AceInterviews/169/236) |
+
+</details>
+
 <a id="urdu"></a>
 
 ## Urdu (اردو)
@@ -188,6 +208,15 @@ Every episode link below opens the audio on Telegram.
 |---|---|
 | EP001 | [Design Distributed Cache [UR]](https://t.me/AceInterviews/175/180) |
 | EP002 | [Design Rate Limiter [UR]](https://t.me/AceInterviews/175/231) |
+
+</details>
+
+<details>
+<summary><b>Engineering Stories (1)</b></summary>
+
+| # | Episode |
+|---|---|
+| EP042 | [Engineering Stories - GTA VI’s 210 GB Preload [UR]](https://t.me/AceInterviews/175/237) |
 
 </details>
 
@@ -205,6 +234,15 @@ Every episode link below opens the audio on Telegram.
 
 </details>
 
+<details>
+<summary><b>Engineering Stories (1)</b></summary>
+
+| # | Episode |
+|---|---|
+| EP042 | [Engineering Stories - GTA VI’s 210 GB Preload [ES]](https://t.me/AceInterviews/181/235) |
+
+</details>
+
 <a id="arabic"></a>
 
 ## Arabic (العربية)
@@ -216,6 +254,15 @@ Every episode link below opens the audio on Telegram.
 |---|---|
 | EP001 | [Design Distributed Cache [AR]](https://t.me/AceInterviews/163/168) |
 | EP002 | [Design Rate Limiter [AR]](https://t.me/AceInterviews/163/230) |
+
+</details>
+
+<details>
+<summary><b>Engineering Stories (1)</b></summary>
+
+| # | Episode |
+|---|---|
+| EP042 | [Engineering Stories - GTA VI’s 210 GB Preload [AR]](https://t.me/AceInterviews/163/234) |
 
 </details>
 
